@@ -1,0 +1,30 @@
+/**
+ * @desc	RS Tabs styles
+ * @author	Ryan Sutana
+ */
+
+.rs-tabs-wrapper{ margin-top: 20px; }
+.rs-tabs-wrapper .tabs {  }
+.rs-tabs-wrapper .tabs li{ list-style: none; border-bottom: none; display: inline; }
+.rs-tabs-wrapper .tabs li a{ 
+   color: #858585;
+   margin-right: 6px;
+   padding: 5px;
+   text-transform: capitalize;
+   background: #E4E4E4;
+   border-top: 1px solid #DDD;
+   border-right: 1px solid #C4C4C4;
+   border-bottom: 1px solid #C4C4C4;
+   border-left: 1px solid #DDD;
+   font-size: 12px;
+   font-weight: bold;
+
+   display: inline-block;
+}
+
+.rs-tabs-wrapper .tabs li a.active,
+.rs-tabs-wrapper .tabs li a:hover {
+   text-decoration: none;
+}
+
+.rs-tabs-wrapper .tab-latest span.date-posted{ padding-left: 12px; display: block; }

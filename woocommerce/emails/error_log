@@ -1,0 +1,1 @@
+[25-May-2014 22:55:03] PHP Fatal error:  Call to undefined function  do_action() in /home/yolomen/public_html/wp-content/themes/yolo-men/woocommerce/emails/admin-new-order.php on line 11

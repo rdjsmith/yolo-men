@@ -1,0 +1,30 @@
+/**
+ * @desc	RS Tabs styles
+ * @author	Ryan Sutana
+ */
+
+ul#twitter_update_list {
+	font-style: italic;
+	list-style: none;
+	margin-left: 0px;
+}
+
+ul#twitter_update_list li a{
+	display: inline;
+	background: none;
+	padding: 0;
+}
+
+.twitter-whole .twitter-link{
+	padding: 2px 9px;
+    background-color: rgb(63, 196, 236);
+	display: inline-block;
+	line-height: 25px;
+	font-weight: bold;
+	
+	border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+}
+
+.twitter-whole .twitter-link span{ color: #fff; }

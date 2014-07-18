@@ -1,0 +1,14 @@
+/**
+ * @desc	RS Tabs styles
+ * @author	Ryan Sutana
+ */
+
+div.rs-contact-widget input[type="text"],
+div.rs-contact-widget input[type="email"],
+div.rs-contact-widget textarea{ background-color: rgb(56, 56, 56); border: 1px solid rgb(66, 66, 66); color: rgb(131, 131, 131); font-size: 12px; }
+
+div.rs-contact-widget input[type="submit"],
+div.rs-contact-widget .button{ background-color: rgb(58, 58, 58); color: rgb(155, 155, 155); }
+div.rs-contact-widget .button.disabled{ background-color: rgb(48, 47, 47); }
+
+div.rs-contact-widget #message .error{ font-size: 12px; }

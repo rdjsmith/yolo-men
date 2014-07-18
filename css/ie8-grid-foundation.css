@@ -1,0 +1,85 @@
+/* The Grid ---------------------- */
+.lt-ie9 .row { width: 940px; max-width: 100%; min-width: 768px; margin: 0 auto; }
+.lt-ie9 .row .row { width: auto; max-width: none; min-width: 0; margin: 0 -15px; }
+.lt-ie9 .row.large-collapse .column, 
+.lt-ie9 .row.large-collapse .columns { padding: 0; }
+.lt-ie9 .row .row { width: auto; max-width: none; min-width: 0; margin: 0 -15px; }
+.lt-ie9 .row .row.large-collapse { margin: 0; }
+
+.lt-ie9 .column, .columns { float: left; min-height: 1px; padding: 0 15px; position: relative; }
+.lt-ie9 .column.large-centered, .columns.large-centered { float: none; margin: 0 auto; }
+
+.lt-ie9 [class*="column"] + [class*="column"]:last-child { float: right; }
+.lt-ie9 [class*="column"] + [class*="column"].end { float: left; }
+
+.lt-ie9 .one,
+.lt-ie9 .row .one { width: 8.33333%; }
+
+.lt-ie9 .two,
+.lt-ie9 .row .two { width: 16.66667%; }
+
+.lt-ie9 .three,
+.lt-ie9 .row .three { width: 25%; }
+
+.lt-ie9 .four,
+.lt-ie9 .row .four { width: 33.33333%; }
+
+.lt-ie9 .five,
+.lt-ie9 .row .five { width: 41.66667%; }
+
+.lt-ie9 .six,
+.lt-ie9 .row .six { width: 50%; }
+
+.lt-ie9 .seven,
+.lt-ie9 .row .seven { width: 58.33333%; }
+
+.lt-ie9 .eight,
+.lt-ie9 .row .eight { width: 66.66667%; }
+
+.lt-ie9 .nine,
+.lt-ie9 .row .nine { width: 75%; }
+
+.lt-ie9 .ten,
+.lt-ie9 .row .ten { width: 83.33333%; }
+
+.lt-ie9 .eleven,
+.lt-ie9 .row .eleven { width: 91.66667%; }
+
+.lt-ie9 .twelve,
+.lt-ie9 .row .twelve { width: 100%; }
+
+.lt-ie9 .row .offset-by-one { margin-left: 8.33333%; }
+.lt-ie9 .row .offset-by-two { margin-left: 16.66667%; }
+.lt-ie9 .row .offset-by-three { margin-left: 25%; }
+.lt-ie9 .row .offset-by-four { margin-left: 33.33333%; }
+.lt-ie9 .row .offset-by-five { margin-left: 41.66667%; }
+.lt-ie9 .row .offset-by-six { margin-left: 50%; }
+.lt-ie9 .row .offset-by-seven { margin-left: 58.33333%; }
+.lt-ie9 .row .offset-by-eight { margin-left: 66.66667%; }
+.lt-ie9 .row .offset-by-nine { margin-left: 75%; }
+.lt-ie9 .row .offset-by-ten { margin-left: 83.33333%; }
+
+.lt-ie9 .pull-two { right: 16.66667%; }
+.lt-ie9 .pull-three { right: 25%; }
+.lt-ie9 .pull-four { right: 33.33333%; }
+.lt-ie9 .pull-five { right: 41.66667%; }
+.lt-ie9 .pull-six { right: 50%; }
+.lt-ie9 .pull-seven { right: 58.33333%; }
+.lt-ie9 .pull-eight { right: 66.66667%; }
+.lt-ie9 .pull-nine { right: 75%; }
+.lt-ie9 .pull-ten { right: 83.33333%; }
+
+.lt-ie9 .push-two { left: 16.66667%; }
+.lt-ie9 .push-three { left: 25%; }
+.lt-ie9 .push-four { left: 33.33333%; }
+.lt-ie9 .push-five { left: 41.66667%; }
+.lt-ie9 .push-six { left: 50%; }
+.lt-ie9 .push-seven { left: 58.33333%; }
+.lt-ie9 .push-eight { left: 66.66667%; }
+.lt-ie9 .push-nine { left: 75%; }
+.lt-ie9 .push-ten { left: 83.33333%; }
+
+/* Nicolas Gallagher's micro clearfix */
+.lt-ie9 .row { *zoom: 1; }
+.lt-ie9 .row:before, .row:after { content: " "; display: table; }
+.lt-ie9 .row:after { clear: both; }

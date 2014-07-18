@@ -1,0 +1,10 @@
+/**
+ * @desc	RS Tabs styles
+ * @author	Ryan Sutana
+ */
+
+ul.testimonial{  }
+ul.testimonial li.testimonial-item { border-bottom: none; }
+ul.testimonial li.testimonial-item div.testimonial-body{ padding: 10px; background-color: #E6E6E6; border-right: 1px solid #6B6B6C; border-bottom: 1px solid #6B6B6C; }
+ul.testimonial li.testimonial-item div.testimonial-body p{ margin-bottom: 0; }
+ul.testimonial li.testimonial-item div.testimonial-body div.testimonial-author{ margin-top: 10px; font-family: 'MyriadPro-Bold', Arial, helvetica, sans-serif; }

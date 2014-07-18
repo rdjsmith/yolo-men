@@ -1,0 +1,398 @@
+<markers>
+	<marker name="Serve Rite" lat='33.968445' lng='-118.096558' type='' address='9420 Slauson Ave' address2='' city='Pico Rivera' state='CA' postal='90660' />
+	<marker name="Aloha Sportfishing Llc Island Spirit" lat='34.197506' lng='-119.177055' type='' address='3600 S. Harbor Blvd. Dock 23' address2='' city='Oxnard' state='CA' postal='93004' />
+	<marker name="Art`s Liquor Mart" lat='34.416374' lng='-118.453484' type='' address='18366 Soledad Canyon Rd' address2='' city='Santa Clarita' state='CA' postal='91387' />
+	<marker name="Ashibi Liquor" lat='34.068871' lng='-118.310165' type='' address='4376 W. 3Rd Street' address2='' city='Los Angeles' state='CA' postal='90020' />
+	<marker name="Bills`s Liquor" lat='34.116856' lng='-118.261780' type='' address='3150 Glendale Blvd' address2='' city='Los Angeles' state='CA' postal='90039' />
+	<marker name="Cash And Keg Liquor" lat='34.092773' lng='-117.748657' type='' address='2585 N. Gary Ave' address2='' city='Pamona' state='CA' postal='91767' />
+	<marker name="Emilio's Beverage Warehouse" lat='33.875057' lng='-118.142937' type='' address='17251 Lakewood Blvd.' address2='' city='Bellflower' state='CA' postal='90706' />
+	<marker name="Gardena Liquor Market" lat='33.862770' lng='-118.299164' type='' address='18502 S. Normandie Ave' address2='' city='Gardena' state='CA' postal='90248' />
+	<marker name="Garvey Beverage Warehouse" lat='34.057507' lng='-118.090530' type='' address='2542 N San Gabriel Blvd' address2='' city='Rosemead' state='CA' postal='91770' />
+	<marker name="Grand Prize Liquore" lat='34.039978' lng='-118.339088' type='' address='4555 W. Washington Blvd.' address2='' city='Los Angeles' state='CA' postal='90016' />
+	<marker name="Hillside Liquor" lat='33.753696' lng='-118.309113' type='' address='29105 Western Ave.' address2='' city='Rancho Palos Verdes' state='CA' postal='90275' />
+	<marker name="Hilltop Liquor" lat='33.664951' lng='-117.989494' type='' address='815 Indianapolis Ave.' address2='' city='Huntington Beach' state='CA' postal='92648' />
+	<marker name="Kintaro Sushi" lat='34.151787' lng='-118.452034' type='' address='14633 Ventura Blvd' address2='' city='Sherman Oaks' state='CA' postal='91430' />
+	<marker name="Number One Liquor Mart" lat='33.868755' lng='-118.382401' type='' address='1520 Aviation Blvd.' address2='' city='Redondo Beach' state='CA' postal='90278' />
+	<marker name="Ralphs Drive In Liquor" lat='33.945442' lng='-118.317062' type='' address='2128-30 W. Century Blvd.' address2='' city='Los Angeles' state='CA' postal='90047' />
+	<marker name="Rhythm Lounge" lat='33.804169' lng='-118.158058' type='' address='245 Pine Avenue 2nd Level' address2='' city='Long Beach' state='CA' postal='90802' />
+	<marker name="Rubio Grocery And Liquor" lat='34.175056' lng='-119.194496' type='' address='13573 Ventura Blvd. Suite 10-11' address2='' city='Encino' state='CA' postal='91436' />
+	<marker name="Soto Liquor Market, Inc." lat='34.062309' lng='-118.197777' type='' address='1602 N. Soto Street' address2='' city='Los Angeles' state='CA' postal='90033' />
+	<marker name="Stearns Liquor" lat='33.796001' lng='-118.141693' type='' address='4360 E. Stearns St.' address2='' city='Long Beach' state='CA' postal='90815' />
+	<marker name="Sun E Side Liquor" lat='33.947884' lng='-118.300545' type='' address='9621 S. Normandie Ave' address2='' city='Los Angeles' state='CA' postal='90044' />
+	<marker name="Topper Motor Hotel And Liquors Inc." lat='34.275352' lng='-119.275337' type='' address='1696 E. Thompson Blvd' address2='' city='Ventura' state='CA' postal='93001' />
+	<marker name="American Legion #112" lat='34.789310' lng='-84.960571' type='' address='1118 N. Glenwood Ave.' address2='' city='Dalton' state='GA' postal='30720' />
+	<marker name="Los Reyes Mexican Resturant" lat='34.760170' lng='-84.966980' type='' address='817 South Hamilton Street Dalton' address2='' city='GA' state='' postal='30720' />
+	<marker name="Dalton Depot" lat='34.772377' lng='-84.967102' type='' address='110 Depot Street ' address2='' city='Dalton' state='GA' postal='30720' />
+	<marker name="Tijuana's #2" lat='34.798790' lng='-85.007896' type='' address='2306 Chattanooga Road Dalton' address2='' city='GA' state='' postal='30720' />
+	<marker name="The Oyster Pub" lat='34.797409' lng='-85.007011' type='' address='2206 Chattanooga Road Dalton' address2='' city='GA' state='' postal='30720' />
+	<marker name="Eton Sports Bar &amp; Grill" lat='34.821400' lng='-84.763634' type='' address='3359 Hwy 411 North Eton' address2='' city='GA' state='' postal='30724' />
+	<marker name="Acoustic Caf" lat='34.913605' lng='-85.131027' type='' address='61 Rbc Drive' address2='' city='Ringgold' state='GA' postal='30736' />
+	<marker name="American Legion 42 Carl Boyd" lat='34.172375' lng='-84.791351' type='' address='1 Roosevelt Street' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="El Zarape" lat='34.255348' lng='-85.170563' type='' address='429 Broad Street' address2='' city='Rome' state='GA' postal='30161' />
+	<marker name="El Nopal Mexican Restaurant" lat='34.148949' lng='-84.826012' type='' address='540 Old Mill Road' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="El Nopal Mexican Restaurant 2" lat='34.002602' lng='-85.041611' type='' address='1422 Chattahoochee Drive' address2='' city='Rockmart' state='GA' postal='30153' />
+	<marker name="Holiday Inn" lat='34.240433' lng='-84.770409' type='' address='2336 Highway 411 Ne' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="Hooters Of Cartersville" lat='34.196503' lng='-84.791824' type='' address='885 Joe Frank Harris Pkwy' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="City Cellar &amp; Loft" lat='34.240555' lng='-84.772354' type='' address='110 South Museum Drive' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="The Border" lat='34.022995' lng='-85.250877' type='' address='718 No Main Street' address2='' city='Cedartown' state='GA' postal='30125' />
+	<marker name="Las Palmas Mexican Bar &amp; Grill" lat='34.262012' lng='-85.169418' type='' address='311 Riverside Parkway Ne' address2='' city='Rome' state='GA' postal='30161' />
+	<marker name="Gametime Sports Grill" lat='34.165096' lng='-84.799934' type='' address='60 Slopes Drive' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="El Pueblito Mexican Restaurant" lat='34.164173' lng='-84.798584' type='' address='148 W Main Street Ste 100' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="Tom's Place" lat='34.151245' lng='-84.814400' type='' address='461 Old Mill Place' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="Cheers Party Shop" lat='33.947048' lng='-85.243683' type='' address='1765 Buchanan Highway' address2='' city='Cedartown' state='GA' postal='30125' />
+	<marker name="Cedartown Liquor Store" lat='34.030544' lng='-85.246925' type='' address='830 North Main Street' address2='' city='Cedartown' state='GA' postal='30125' />
+	<marker name="Party Time Beverages" lat='34.181858' lng='-85.205406' type='' address='2797 Martha Berry Highway' address2='' city='Rome' state='GA' postal='30165' />
+	<marker name="Crown Liquors" lat='34.266106' lng='-85.202202' type='' address='702 Shorter Avenue Nw' address2='' city='Rome' state='GA' postal='30165' />
+	<marker name="Arks Liquor" lat='34.264843' lng='-85.196098' type='' address='432 Shorter Ave Nw ' address2='' city='Rome' state='GA' postal='30165' />
+	<marker name="Chastains Regency Beverage" lat='34.263519' lng='-85.157829' type='' address='1416 North Broad Street' address2='' city='Rome' state='GA' postal='30165' />
+	<marker name="Rome Liquor &amp; Tobacco" lat='34.245075' lng='-85.166931' type='' address='600 East 2Nd Avenue Sw' address2='' city='Rome' state='GA' postal='30161' />
+	<marker name="Blue Box Beverage" lat='34.242584' lng='-85.180084' type='' address='33 East Main Street' address2='' city='Rome' state='GA' postal='30161' />
+	<marker name="Holmes Spirits" lat='34.798740' lng='-84.987389' type='' address='2205 Chatanooga Road' address2='' city='Dalton' state='GA' postal='30720' />
+	<marker name="Jasper Beverage" lat='34.461151' lng='-84.413841' type='' address='1109 E Church Street' address2='' city='Jasper' state='GA' postal='30143' />
+	<marker name="Trouts Beverage Warehouse" lat='34.464191' lng='-84.459961' type='' address='1759 Hwy 53 West' address2='' city='Jasper' state='GA' postal='30143' />
+	<marker name="Trouts Beverave #2" lat='34.402023' lng='-84.420250' type='' address='220 Shelby Lane' address2='' city='Jasper' state='GA' postal='30143' />
+	<marker name="Hilltop Package" lat='34.681377' lng='-84.479836' type='' address='12 Hefner Street' address2='' city='East Ellijay' state='GA' postal='30540' />
+	<marker name="Calhoun Liquor Store" lat='34.517567' lng='-84.944687' type='' address='960 N Wall Street' address2='' city='Calhoun' state='GA' postal='30701' />
+	<marker name="Party Liquor" lat='34.501408' lng='-84.916687' type='' address='101 William Street' address2='' city='Calhoun' state='GA' postal='30701' />
+	<marker name="Cartersville Beverage Company" lat='34.159393' lng='-84.809998' type='' address='831 West Avenue' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="Toad's Beverage " lat='34.151260' lng='-84.815819' type='' address='481 Old Mill Place' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="Country Spirit 41" lat='34.207439' lng='-84.817566' type='' address='1350 Joe Frank Harris Pkw' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="The Spirits Company" lat='34.195999' lng='-84.792854' type='' address='10 Felton Place' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="Aatco Spirits" lat='34.179539' lng='-84.814590' type='' address='263 Cassville Road' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="Liquor Mart" lat='34.472324' lng='-84.921883' type='' address='541 Highway 53 East' address2='' city='Calhoun' state='GA' postal='30701' />
+	<marker name="Abc Liquor &amp; Tobacco Outlet" lat='34.478477' lng='-84.934235' type='' address='100 Hwy 53 SE' address2='' city='Calhoun' state='GA' postal='30701' />
+	<marker name="American Legion #112" lat='34.789310' lng='-84.960571' type='' address='1118 N. Glenwood Ave' address2='' city='Dalton' state='GA' postal='30720' />
+	<marker name="Los Reyes Mexican Restaurant" lat='34.760170' lng='-84.966980' type='' address='817 South Hamilton Street' address2='' city='Dalton' state='GA' postal='30720' />
+	<marker name="Dalton Depot" lat='34.772377' lng='-84.967102' type='' address='110 Depot Street ' address2='' city='Dalton' state='GA' postal='30720' />
+	<marker name="Tijuana`s #2" lat='34.798790' lng='-85.007896' type='' address='2306 Chattanooga Road' address2='' city='Dalton' state='GA' postal='30720' />
+	<marker name="The Oyster Pub" lat='34.797409' lng='-85.007011' type='' address='2206 Chattanooga Road' address2='' city='Dalton' state='GA' postal='30720' />
+	<marker name="Eton Sports Bar &amp; Grill" lat='34.821400' lng='-84.763634' type='' address='3359 Hwy 411 North' address2='' city='Eton' state='GA' postal='30724' />
+	<marker name="Acoustic Caf" lat='34.913605' lng='-85.131027' type='' address='61 Rbc Drive' address2='' city='Ringgold' state='GA' postal='30736' />
+	<marker name="American Legion 42 Carl Boyd" lat='34.172375' lng='-84.791351' type='' address='1 Roosevelt Street' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="El Zarape" lat='34.255348' lng='-85.170563' type='' address='429 Broad Street' address2='' city='Rome' state='GA' postal='30161' />
+	<marker name="El Nopal Mexican Restaurant" lat='34.148949' lng='-84.826012' type='' address='540 Old Mill Road' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="El Nopal Mexican Restaurant 2" lat='34.002602' lng='-85.041611' type='' address='1422 Chattahoochee Drive' address2='' city='Rockmart' state='GA' postal='30153' />
+	<marker name="Holiday Inn" lat='34.240433' lng='-84.770409' type='' address='2336 Highway 411 Ne' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="Hooters Of Cartersville" lat='34.196503' lng='-84.791824' type='' address='885 Joe Frank Harris Pkwy' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="City Cellar &amp; Loft" lat='34.240555' lng='-84.772354' type='' address='110 South Museum Drive' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="The Border" lat='34.022995' lng='-85.250877' type='' address='718 No Main Street' address2='' city='Cedartown' state='GA' postal='30125' />
+	<marker name="Las Palmas Mexican Bar &amp; Grill" lat='34.262012' lng='-85.169418' type='' address='311 Riverside Parkway NE' address2='' city='Rome' state='GA' postal='30161' />
+	<marker name="Gametime Sports Grill" lat='34.165096' lng='-84.799934' type='' address='60 Slopes Drive' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="El Pueblito Mexican Restaurant" lat='34.164173' lng='-84.798584' type='' address='148 W Main Street Ste 100' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="Tom`s Place" lat='34.151245' lng='-84.814400' type='' address='461 Old Mill Place' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="Cheers Party Shop" lat='33.947048' lng='-85.243683' type='' address='1765 Buchanan Highway' address2='' city='Cedartown' state='GA' postal='30125' />
+	<marker name="Cedartown Liquor Store" lat='34.030544' lng='-85.246925' type='' address='830 North Main Street' address2='' city='Cedartown' state='GA' postal='30125' />
+	<marker name="Party Time Beverages" lat='34.181858' lng='-85.205406' type='' address='2797 Martha Berry Highway' address2='' city='Rome' state='GA' postal='30165' />
+	<marker name="Crown Liquors" lat='34.266106' lng='-85.202202' type='' address='702 Shorter Avenue NW' address2='' city='Rome' state='GA' postal='30165' />
+	<marker name="Arks Liquor" lat='34.264843' lng='-85.196098' type='' address='432 Shorter Ave NW ' address2='' city='Rome' state='GA' postal='30165' />
+	<marker name="Chastains Regency Beverage" lat='34.263519' lng='-85.157829' type='' address='1416 North Broad Street' address2='' city='Rome' state='GA' postal='30165' />
+	<marker name="Rome Liquor &amp; Tobacco" lat='34.245075' lng='-85.166931' type='' address='600 East 2Nd Avenue SW' address2='' city='Rome' state='GA' postal='30161' />
+	<marker name="Blue Box Beverage" lat='34.242584' lng='-85.180084' type='' address='33 East Main Street' address2='' city='Rome' state='GA' postal='30161' />
+	<marker name="Holmes Spirits" lat='34.798740' lng='-84.987389' type='' address='2205 Chatanooga Road' address2='' city='Dalton' state='GA' postal='30720' />
+	<marker name="Jasper Beverage" lat='34.461151' lng='-84.413841' type='' address='1109 E Church Street' address2='' city='Jasper' state='GA' postal='30143' />
+	<marker name="Trouts Beverage Warehouse" lat='34.464191' lng='-84.459961' type='' address='1759 Hwy 53 West' address2='' city='Jasper' state='GA' postal='30143' />
+	<marker name="Trouts Beverave #2" lat='34.402023' lng='-84.420250' type='' address='220 Shelby Lane' address2='' city='Jasper' state='GA' postal='30143' />
+	<marker name="Hilltop Package" lat='34.681377' lng='-84.479836' type='' address='12 Hefner Street' address2='' city='East Ellijay' state='GA' postal='30540' />
+	<marker name="Calhoun Liquor Store" lat='34.517567' lng='-84.944687' type='' address='960 N Wall Street' address2='' city='Calhoun' state='GA' postal='30701' />
+	<marker name="Party Liquor" lat='34.501408' lng='-84.916687' type='' address='101 William Street' address2='' city='Calhoun' state='GA' postal='30701' />
+	<marker name="Cartersville Beverage Company" lat='34.159393' lng='-84.809998' type='' address='831 West Avenue' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="Toad's Beverage " lat='34.151260' lng='-84.815819' type='' address='481 Old Mill Place' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="Country Spirit 41" lat='34.207439' lng='-84.817566' type='' address='1350 Joe Frank Harris Pkw' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="The Spirits Company" lat='34.195999' lng='-84.792854' type='' address='10 Felton Place' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="Aatco Spirits" lat='34.179539' lng='-84.814590' type='' address='263 Cassville Road' address2='' city='Cartersville' state='GA' postal='30120' />
+	<marker name="Liquor Mart" lat='34.472324' lng='-84.921883' type='' address='541 Highway 53 East' address2='' city='Calhoun' state='GA' postal='30701' />
+	<marker name="Abc Liquor &amp; Tobacco Outlet" lat='34.478477' lng='-84.934235' type='' address='100 Hwy 53 Se' address2='' city='Calhoun' state='GA' postal='30701' />
+	<marker name="All American Liquor" lat='43.110722' lng='-89.642914' type='' address='2543 Mail St.' address2='' city='Cross Plains' state='WI' postal='53528' />
+	<marker name="Alpine Liquor" lat='43.085102' lng='-89.267593' type='' address='6420 Cottage Grove Road' address2='' city='Madison' state='WI' postal='53713' />
+	<marker name="Amado`s" lat='43.193844' lng='-88.721046' type='' address='403 E Main St' address2='' city='Watertown' state='WI' postal='53094' />
+	<marker name="Badger Bowl" lat='43.038815' lng='-89.377136' type='' address='506 E Badger Rd ' address2='' city='Madison' state='WI' postal='53713' />
+	<marker name="Badger Liquor Shop" lat='43.074818' lng='-89.391769' type='' address='402 State St' address2='' city='Madison' state='WI' postal='53703' />
+	<marker name="Badger Spirits" lat='42.541580' lng='-89.011642' type='' address='2621 Prairie Ave.' address2='' city='Beloit' state='WI' postal='53511' />
+	<marker name="Bennett`s Meadowood Ctry Club" lat='43.032127' lng='-89.460243' type='' address='2009 Freeport Road' address2='' city='Madison' state='WI' postal='53711' />
+	<marker name="Black Kettle Eatery &amp; Pub" lat='43.338982' lng='-89.014320' type='' address='139 N Ludington' address2='' city='Columbus' state='WI' postal='53925' />
+	<marker name="Bob's Beverage" lat='43.343803' lng='-89.024734' type='' address='1101 W James St.' address2='' city='Columbus' state='WI' postal='53925' />
+	<marker name="Breslow`s Family Market" lat='43.196926' lng='-88.723434' type='' address='100 E Cady ' address2='' city='Watertown' state='WI' postal='53098' />
+	<marker name="Broadway Mobil &amp; Travel Mart" lat='43.627583' lng='-89.769203' type='' address='802 Broadway' address2='' city='WIsconsin Dell' state='WI' postal='53965' />
+	<marker name="Bubba's Thirsty Rhino" lat='43.194923' lng='-88.727089' type='' address='222 W Main Street' address2='' city='Watertown' state='WI' postal='53094' />
+	<marker name="Caddy Shack" lat='42.781921' lng='-88.936127' type='' address='229 N Janesville St' address2='' city='Milton' state='WI' postal='53563' />
+	<marker name="Cambridge Cooler" lat='43.200111' lng='-96.430687' type='' address='109 Jefferson St Hwy 18' address2='' city='Cambridge' state='WI' postal='53523' />
+	<marker name="Castaways" lat='42.803398' lng='-89.087769' type='' address='3515 County Road M' address2='' city='Edgerton' state='WI' postal='53534' />
+	<marker name="Convoy`s Bar And Grill" lat='42.834328' lng='-89.070900' type='' address='112 W Fulton St' address2='' city='Edgerton' state='WI' postal='53534' />
+	<marker name="Cruzin Chubby`s" lat='43.589718' lng='-89.793983' type='' address='M576 Hwy 12-16' address2='' city='Wisconsin Dell' state='WI' postal='53965' />
+	<marker name="Daley's Beverage Mart" lat='43.551460' lng='-89.466751' type='' address='1623 New Pinery Rd' address2='' city='Portage' state='WI' postal='53901' />
+	<marker name="Dig-N-Kat's" lat='43.012787' lng='-88.588158' type='' address='1605 Hwy F ' address2='' city='Sullivan' state='WI' postal='53178' />
+	<marker name="Discount Liquor" lat='43.537914' lng='-89.456627' type='' address='211 E Wisconsin St' address2='' city='Portage' state='WI' postal='53901' />
+	<marker name="El Marrachi Restaurant" lat='43.172840' lng='-88.732224' type='' address='1694 Church Street' address2='' city='Watertown' state='WI' postal='53094' />
+	<marker name="Festival Foods/Union St Depot" lat='43.804737' lng='-90.069946' type='' address='750 Union Street' address2='' city='Mauston' state='WI' postal='53948' />
+	<marker name="Fins" lat='42.828625' lng='-89.020905' type='' address='723 Ellendale Road' address2='' city='Edgerton' state='WI' postal='53534' />
+	<marker name="Firecracker Pub" lat='43.194004' lng='-88.719460' type='' address='516 E Main Street' address2='' city='Watertwon' state='WI' postal='53094' />
+	<marker name="Great River Harbor" lat='44.310383' lng='-91.909653' type='' address='S 2221 Hwy 35 ' address2='' city='Alma' state='WI' postal='54610' />
+	<marker name="Harpers Tavern " lat='43.004181' lng='-88.805504' type='' address='202 S Center Ave.' address2='' city='Jefferson' state='WI' postal='53549' />
+	<marker name="In Good Spirits" lat='43.003727' lng='-88.599373' type='' address='W 1909 Main St' address2='' city='Sullivan' state='WI' postal='53178' />
+	<marker name="J &amp; B Liquor" lat='43.017056' lng='-89.301186' type='' address='5716 US Hwy 51 ' address2='' city='Mc Farland' state='WI' postal='53558' />
+	<marker name="J &amp; S Liquor" lat='43.797649' lng='-90.066925' type='' address='519 State Road 82 East' address2='' city='Mauston' state='WI' postal='53950' />
+	<marker name="Janie's Pub &amp; Grill" lat='43.012901' lng='-88.588181' type='' address='151 Main St' address2='' city='Sullivan' state='WI' postal='53178' />
+	<marker name="Jerry's Place" lat='43.105724' lng='-89.330261' type='' address='601 N Fair Oaks Ave.' address2='' city='Madison' state='WI' postal='53703' />
+	<marker name="Jr's Pub" lat='42.840683' lng='-88.977692' type='' address='11624  Nelson St ' address2='' city='Milton' state='WI' postal='52563' />
+	<marker name="Katy's Corner Llc" lat='43.003998' lng='-89.017410' type='' address='130 W Main ' address2='' city='Cambridge' state='WI' postal='53523' />
+	<marker name="Kp Mart" lat='42.923168' lng='-88.842621' type='' address='415 Janesville Ave' address2='' city='Fort Atkinson' state='WI' postal='53538' />
+	<marker name="Krazy Sports Bar" lat='43.192669' lng='-88.722328' type='' address='215 South 3Rd St' address2='' city='Watertown' state='WI' postal='53094' />
+	<marker name="Lake Delton Mobil &amp; Travel Mar" lat='43.602886' lng='-89.792511' type='' address='1171 Wisconsin Dells' address2='' city='Lake Delton' state='WI' postal='53940' />
+	<marker name="Lake Delton Shell" lat='43.601089' lng='-89.793739' type='' address='532 Monroe Ave' address2='' city='Lake Delton' state='WI' postal='53940' />
+	<marker name="Lakeside Hardware" lat='43.373005' lng='-89.646431' type='' address='E 12965 Hwy 78' address2='' city='Merrimac' state='WI' postal='53561' />
+	<marker name="Last Shot Saloon" lat='43.711075' lng='-89.901108' type='' address='106 S Wisconsin St' address2='' city='Lyndon Station' state='WI' postal='53944' />
+	<marker name="Local Pointe" lat='43.625729' lng='-89.786133' type='' address='N 1095 Us Hwy 12 &amp; 16' address2='' city='Wisconsin Dell' state='WI' postal='53965' />
+	<marker name="Main St Liquor" lat='43.315273' lng='-89.527710' type='' address='216 N Main St. ' address2='' city='Lodi' state='WI' postal='53555' />
+	<marker name="Neil's - Fitchburg" lat='43.024677' lng='-89.414467' type='' address='3064 Fish Hatchery Rd' address2='' city='Fitchburg' state='WI' postal='53713' />
+	<marker name="Neil's Village Liquor" lat='43.189899' lng='-89.461639' type='' address='204B S Century Ave.' address2='' city='Waunakee' state='WI' postal='53597' />
+	<marker name="Newville Mobil" lat='42.831493' lng='-89.024422' type='' address='581 E Richardson Springs' address2='' city='Edgerton' state='WI' postal='53534' />
+	<marker name="Nig's Bar" lat='43.627956' lng='-89.775009' type='' address='201 Broadway' address2='' city='Wisconsin Dell' state='WI' postal='53965' />
+	<marker name="Norm's Hideaway" lat='42.897823' lng='-88.961998' type='' address='W 8639 Kuehn Rd' address2='' city='Fort Atkinson' state='WI' postal='53538' />
+	<marker name="Oak Ridge Golf Course" lat='42.787178' lng='-88.931244' type='' address='1136 Bowers Lake Rd' address2='' city='Milton' state='WI' postal='53563' />
+	<marker name="Old World Pub" lat='43.192799' lng='-88.726784' type='' address='210 S Water St' address2='' city='Watertown' state='WI' postal='53094' />
+	<marker name="Palmyra Bowl" lat='42.877155' lng='-88.586288' type='' address='300 W Main St' address2='' city='Palmyra' state='WI' postal='53156' />
+	<marker name="Pedro's - Wi Dells" lat='43.627785' lng='-89.782143' type='' address='951 Stand Rock Rd' address2='' city='Wisconsin Dell' state='WI' postal='53965' />
+	<marker name="Pettit's Lakeview Campground" lat='42.825016' lng='-88.985481' type='' address='1901 State Hwy 59 ' address2='' city='Milton' state='WI' postal='53563' />
+	<marker name="Picketts" lat='43.012787' lng='-88.588158' type='' address='W 1881 Main St Ro' address2='' city='Sullivan' state='WI' postal='53178' />
+	<marker name="Piggly Wiggly" lat='43.201332' lng='-88.700722' type='' address='1330 Memorial Drive' address2='' city='Watertown' state='WI' postal='53098' />
+	<marker name="Pitcher's Pub " lat='43.036602' lng='-89.388802' type='' address='323 W Beltline Hwy' address2='' city='Madison' state='WI' postal='53713' />
+	<marker name="Poker's Town Bar" lat='43.193970' lng='-88.720459' type='' address='416 E Main St' address2='' city='Watertown' state='WI' postal='53904' />
+	<marker name="Pourman's Pub &amp; Grill " lat='43.013275' lng='-88.588303' type='' address='150 Main Street' address2='' city='Sullivan' state='WI' postal='53178' />
+	<marker name="Red Zone Pub And Grill" lat='42.773567' lng='-88.965324' type='' address='403 West High Street' address2='' city='Milton' state='WI' postal='53563' />
+	<marker name="Regent Street Retreat" lat='43.067852' lng='-89.406471' type='' address='1206 Regent St' address2='' city='Madison' state='WI' postal='53703' />
+	<marker name="Riley's Wines Of The World" lat='43.074215' lng='-89.393051' type='' address='402 W Gorham St' address2='' city='Madison' state='WI' postal='53703' />
+	<marker name="Rock Bottom Bar &amp; Grill" lat='43.004719' lng='-88.808205' type='' address='123 W Milwaukee Street' address2='' city='Jefferson' state='WI' postal='53549' />
+	<marker name="Ron's Market" lat='43.200111' lng='-96.430687' type='' address='W 3094 Hwy 18' address2='' city='Helenville' state='WI' postal='53137' />
+	<marker name="Sadhana Wine Shop" lat='43.069401' lng='-89.389717' type='' address='41 S Bassett' address2='' city='Madison' state='WI' postal='53703' />
+	<marker name="Sauk Prairie Liquor" lat='43.279549' lng='-89.719154' type='' address='227 Water St. ' address2='' city='Sauk City' state='WI' postal='53583' />
+	<marker name="Sentry" lat='43.079376' lng='-88.909752' type='' address='105 S Madison St' address2='' city='Lake Mills' state='WI' postal='53551' />
+	<marker name="Sentry Foods #780" lat='42.931236' lng='-88.839851' type='' address='328 Washington St' address2='' city='Fort Atkinson' state='WI' postal='53538' />
+	<marker name="Squidy's Tavern" lat='42.878632' lng='-88.586716' type='' address='102 N 2nd St.' address2='' city='Palmyra' state='WI' postal='53156' />
+	<marker name="Stadium Sports Bar &amp; Eatery" lat='43.069538' lng='-89.409416' type='' address='1419 Monroe St' address2='' city='Madison' state='WI' postal='53711' />
+	<marker name="Steiney's Bar" lat='43.195396' lng='-88.734184' type='' address='715 W Main St' address2='' city='Watertown' state='WI' postal='53094' />
+	<marker name="Swagger Inn" lat='43.711720' lng='-89.900398' type='' address='156 Wisconsin St.' address2='' city='Lyndon Station' state='WI' postal='53944' />
+	<marker name="The Wonder Bar Steak House" lat='43.052158' lng='-89.379189' type='' address='222 E Olin Ave' address2='' city='Madison' state='WI' postal='53713' />
+	<marker name="Tnt's Varsity Lanes" lat='42.774834' lng='-88.961937' type='' address='450 S John Paul Rd' address2='' city='Milton' state='WI' postal='53563' />
+	<marker name="Towne Inn" lat='42.991524' lng='-88.808060' type='' address='124 W Rockwell St. ' address2='' city='Jefferson' state='WI' postal='53549' />
+	<marker name="Turtle Club" lat='43.192986' lng='-88.722397' type='' address='207 S 3Rd St. ' address2='' city='Watertown' state='WI' postal='53094' />
+	<marker name="University Avenue Liquor" lat='43.073200' lng='-89.395355' type='' address='525 University Avenue' address2='' city='Madison' state='WI' postal='53703' />
+	<marker name="Up North " lat='43.077164' lng='-89.376961' type='' address='150 S Blair Street' address2='' city='Madison' state='WI' postal='53703' />
+	<marker name="Vic Pierce's Wine &amp; Liquor" lat='43.107388' lng='-89.363869' type='' address='609 N Sherman Ave.' address2='' city='Madison' state='WI' postal='53704' />
+	<marker name="Watertown Pick N Save" lat='43.186562' lng='-88.729843' type='' address='624 S Church St.' address2='' city='Watertown' state='WI' postal='53094' />
+	<marker name="West Badger Liquor" lat='43.038754' lng='-89.392548' type='' address='714 W Badger Rd' address2='' city='Madison' state='WI' postal='53703' />
+	<marker name="Wingin It" lat='43.200111' lng='-96.430687' type='' address='W 3326 Hwy 18 ' address2='' city='Helenville' state='WI' postal='53137' />
+	<marker name="Woodman's Food Mkt #14" lat='42.525169' lng='-89.074303' type='' address='1877 Madison Rd' address2='' city='Beloit' state='WI' postal='53511' />
+	<marker name="Woodman's Janesville #3 " lat='42.718739' lng='-88.993881' type='' address='2819 N Lexington Dr' address2='' city='Janesville' state='WI' postal='53545' />
+	<marker name="Zander's Sports Lounge" lat='43.075020' lng='-89.387245' type='' address='118 State Street' address2='' city='Madison' state='WI' postal='53704' />
+	<marker name="Zinke's Shop Rite &amp; Liquor" lat='43.625942' lng='-89.774628' type='' address='216 Washington Ave.' address2='' city='Wisconsin Dell' state='WI' postal='53965' />
+	<marker name="Zues Village And Camp Resort " lat='43.618702' lng='-89.784149' type='' address='400 County Rd A &amp; Hwy 12' address2='' city='Wisconsin Dell' state='WI' postal='53965' />
+	<marker name="West Street Liquor" lat='42.140377' lng='-71.528183' type='' address='61 West Street' address2='' city='Milford' state='MA' postal='1757' />
+	<marker name="Independent Liquor" lat='42.024097' lng='-71.122253' type='' address='503 Foundry Street' address2='' city='N. Easton' state='MA' postal='2356' />
+	<marker name="Ye Olde Lamplighter" lat='42.423557' lng='-72.066711' type='' address='187 South West Cut' address2='' city='Worcester' state='MA' postal='1603' />
+	<marker name="Centerfolds" lat='42.228043' lng='-71.757332' type='' address='229 Southwest Cuto' address2='' city='Worcester' state='MA' postal='1604' />
+	<marker name="Whiskey's" lat='42.348457' lng='-71.083549' type='' address='885 Boylston St' address2='' city='Boston' state='MA' postal='2115' />
+	<marker name="Bluri Bar &amp; Lounge" lat='42.265549' lng='-71.801331' type='' address='320 Main Street' address2='' city='Worcester' state='MA' postal='1608' />
+	<marker name="Club Universe" lat='42.258663' lng='-71.822197' type='' address='371 Park Ave' address2='' city='Worcester' state='MA' postal='1610' />
+	<marker name="Zachary's Pub" lat='41.643112' lng='-70.481667' type='' address='100 Great Neck Rd' address2='' city='Mashpee' state='MA' postal='2649' />
+	<marker name="Seven Star Liquors" lat='41.885628' lng='-70.916733' type='' address='3 East Grove St' address2='' city='Middleboro' state='MA' postal='2346' />
+	<marker name="Fettes Package Store" lat='42.140274' lng='-72.559662' type='' address='576 Page Blvd' address2='' city='Springfield' state='MA' postal='1104' />
+	<marker name="Chris Gasbarro's Wines &amp; Spirits" lat='41.942173' lng='-71.346489' type='' address='1190 South Washington' address2='' city='N. Attleboro' state='MA' postal='2760' />
+	<marker name="Plaza Package" lat='42.331043' lng='-73.366966' type='' address='155 State Rd' address2='' city='Gr. Barringt' state='MA' postal='1230' />
+	<marker name="Kirsch Liquors" lat='42.259972' lng='-71.805298' type='' address='646 Main Street' address2='' city='Worcester' state='MA' postal='1613' />
+	<marker name="H&amp;B Wine &amp; Liquors" lat='42.251133' lng='-71.768318' type='' address='725 Grafton Street' address2='' city='Worcester' state='MA' postal='1604' />
+	<marker name="Nasty Nonnis Wine&amp; Spirits" lat='42.472462' lng='-71.035706' type='' address='321 Main Street' address2='' city='Saugus' state='MA' postal='1906' />
+	<marker name="Countryside Liquor" lat='42.139530' lng='-71.514793' type='' address='170 Central Street' address2='' city='Milford' state='MA' postal='1757' />
+	<marker name="Chiefton Liquors" lat='42.226231' lng='-71.821724' type='' address='81 Southbridge Str' address2='' city='Auburn' state='MA' postal='1501' />
+	<marker name="Big Guy Liquors" lat='42.411201' lng='-72.530525' type='' address='25 Montague Road' address2='' city='Amherst' state='MA' postal='1059' />
+	<marker name="Village Package" lat='42.290611' lng='-72.407364' type='' address='16 Federal Street' address2='' city='Belchertown' state='MA' postal='1007' />
+	<marker name="Hank's Liquors" lat='42.057777' lng='-71.868935' type='' address='94 East Main Stree' address2='' city='Webster' state='MA' postal='1570' />
+	<marker name="Allstar Liquor" lat='42.284229' lng='-71.791405' type='' address='261 Lincoln Street' address2='' city='Worcester' state='MA' postal='6105' />
+	<marker name="Broadway Liquors" lat='42.407318' lng='-71.056602' type='' address='20 Norwood Street' address2='' city='Everett' state='MA' postal='2149' />
+	<marker name="South Amherst Liquors" lat='42.340382' lng='-72.520111' type='' address='483 West Street' address2='' city='Amherst' state='MA' postal='1002' />
+	<marker name="Stafford Discount" lat='42.235367' lng='-71.850189' type='' address='191 Stafford Stree' address2='' city='Worcester' state='MA' postal='1603' />
+	<marker name="Fiorentino's Package Store" lat='42.408234' lng='-71.046196' type='' address='123 Ferry Street' address2='' city='Everett' state='MA' postal='2149' />
+	<marker name="Food Mart" lat='42.278954' lng='-71.416718' type='' address='159 Concord Street' address2='' city='Framingham' state='MA' postal='1702' />
+	<marker name="Everett Package Store" lat='42.415485' lng='-71.047684' type='' address='741 Broadway' address2='' city='Everett' state='MA' postal='2149' />
+	<marker name="Flynn's Fine W&amp;S" lat='42.041153' lng='-71.891182' type='' address='81 Schofield Avenu' address2='' city='Dudley' state='MA' postal='1571' />
+	<marker name="Winter Hill Liquor" lat='42.400486' lng='-71.061607' type='' address='313 Broadway' address2='' city='Somerville' state='MA' postal='2145' />
+	<marker name="Mc Heald Liquors" lat='42.462269' lng='-70.961922' type='' address='6 Commercial Stree' address2='' city='Lynn' state='MA' postal='1905' />
+	<marker name="White Wing Package" lat='42.239414' lng='-72.581436' type='' address='568 Newton Street' address2='' city='South Hadley' state='MA' postal='1075' />
+	<marker name="The Wine Merchant" lat='42.434170' lng='-71.685532' type='' address='1175 Main Street' address2='' city='Clinton' state='MA' postal='1510' />
+	<marker name="Foxboro Wine &amp; Spirits" lat='42.064438' lng='-71.249641' type='' address='14 South Street' address2='' city='Foxboro' state='MA' postal='2035' />
+	<marker name="Norton Liquors" lat='41.975407' lng='-71.197838' type='' address='92 Mansfield Ave' address2='' city='Norton' state='MA' postal='2766' />
+	<marker name="Leahy's Liquor Store" lat='41.902950' lng='-71.098862' type='' address='16 Washington Stre' address2='' city='Tauton' state='MA' postal='2780' />
+	<marker name="Hamilton St Liquor" lat='42.258766' lng='-71.765800' type='' address='366 Hamilton St' address2='' city='Worcester' state='MA' postal='1604' />
+	<marker name="Leominster Liquor" lat='42.550220' lng='-71.763054' type='' address='531 North Main St' address2='' city='Leominster' state='MA' postal='1453' />
+	<marker name="Alexander's Wines&amp;" lat='42.282051' lng='-71.042992' type='' address='775 Gallivan Blvd' address2='' city='Dorcester' state='MA' postal='2122' />
+	<marker name="Chartley Country Liquors" lat='41.902802' lng='-71.248375' type='' address='319A Tremont St' address2='' city='Rehoboth' state='MA' postal='2769' />
+	<marker name="Wine, Beer, &amp; Moor" lat='41.967930' lng='-71.022255' type='' address='1440 Pleasant St' address2='' city='Bridgewater' state='MA' postal='2324' />
+	<marker name="Bridgewater Liquor" lat='41.990757' lng='-70.974968' type='' address='25 Broad St' address2='' city='Bridgewater' state='MA' postal='2324' />
+	<marker name="Hill's Liquors" lat='41.794994' lng='-71.329437' type='' address='1143 Fall River Av' address2='' city='Seekonk' state='MA' postal='2771' />
+	<marker name="Woody's" lat='42.397820' lng='-71.105492' type='' address='523 Broadway' address2='' city='Somerville' state='MA' postal='2145' />
+	<marker name="El Colqui Liquor Store" lat='42.260338' lng='-71.816002' type='' address='184 Chandler St' address2='' city='Worcester' state='MA' postal='1609' />
+	<marker name="Harvard Wine Company" lat='42.374420' lng='-71.118279' type='' address='1664 Massachusetts' address2='' city='Cambridge' state='MA' postal='2138' />
+	<marker name="Towne Liquors" lat='41.732124' lng='-71.207108' type='' address='391 Wilbur Ave' address2='' city='Swansea' state='MA' postal='2777' />
+	<marker name="Vintage Barn Wine &amp; Spirits" lat='41.747272' lng='-71.206154' type='' address='580 Gar Highway' address2='' city='Swansea' state='MA' postal='2777' />
+	<marker name="Main St Market" lat='42.164497' lng='-71.364784' type='' address='1066 Main St' address2='' city='Millis' state='MA' postal='2054' />
+	<marker name="Ryans Package Store" lat='42.124790' lng='-72.748802' type='' address='11 Franklin St' address2='' city='Westfield' state='MA' postal='1085' />
+	<marker name="Webster Square Package" lat='42.247654' lng='-71.827690' type='' address='1014 Main St' address2='' city='Worcester' state='MA' postal='1603' />
+	<marker name="Cheers Liquors" lat='42.058777' lng='-71.067558' type='' address='1280 Belmont St' address2='' city='Brockton' state='MA' postal='2301' />
+	<marker name="Lincoln Liquors" lat='42.295948' lng='-71.771851' type='' address='560 Lincoln Street' address2='' city='Worcester' state='MA' postal='1605' />
+	<marker name="Valley Liquors" lat='42.303875' lng='-71.762535' type='' address='12 Boylston Street' address2='' city='Worcester' state='MA' postal='1605' />
+	<marker name="Muckeys Liquors" lat='41.901630' lng='-70.982170' type='' address='13 Harding St' address2='' city='Lakeville' state='MA' postal='2347' />
+	<marker name="Taunton Liquor &amp; Wine" lat='41.934933' lng='-71.082191' type='' address='245 Broadway' address2='' city='Taunton' state='MA' postal='2780' />
+	<marker name="Big Bob's Liquors" lat='42.248253' lng='-71.810509' type='' address='501 Southbridge St' address2='' city='Worcester' state='MA' postal='1610' />
+	<marker name="Grafton Hill Package" lat='42.256699' lng='-71.790794' type='' address='8 Penn Ave #5' address2='' city='Worcester' state='MA' postal='1604' />
+	<marker name="Starrs Liquors" lat='41.983009' lng='-70.992691' type='' address='460 Pleasant St' address2='' city='Bridgewater' state='MA' postal='2324' />
+	<marker name="Wymans Liquor Mart" lat='42.524632' lng='-71.761108' type='' address='30 Pleasant St' address2='' city='Leominster' state='MA' postal='1524' />
+	<marker name="Cardoza's Wine &amp; Spirits" lat='41.652172' lng='-70.988258' type='' address='154 Faunce Corner' address2='' city='Dartmouth' state='MA' postal='2747' />
+	<marker name="Guimond Farms" lat='41.682129' lng='-71.163864' type='' address='105 Rhode Island A' address2='' city='Fall River' state='MA' postal='2724' />
+	<marker name="Woodys" lat='42.386055' lng='-71.005196' type='' address='1035 Saratoga St' address2='' city='East Boston' state='MA' postal='2128' />
+	<marker name="Gomes Liquors" lat='42.603687' lng='-71.801247' type='' address='58 Ashby State Rd' address2='' city='Fitchburg' state='MA' postal='1420' />
+	<marker name="Martys" lat='42.044113' lng='-71.901192' type='' address='119 West Main St' address2='' city='Dudley' state='MA' postal='1571' />
+	<marker name="Pop The Cork" lat='42.112812' lng='-72.746880' type='' address='5 East Silver St' address2='' city='Westfield' state='MA' postal='1085' />
+	<marker name="Greyhound Package" lat='41.946995' lng='-71.074577' type='' address='676 Broadway' address2='' city='Raynham' state='MA' postal='2767' />
+	<marker name="Four Seasons Wine" lat='42.356182' lng='-72.554047' type='' address='333 Russell St' address2='' city='Hadley' state='MA' postal='1035' />
+	<marker name="Andy's Market" lat='41.931934' lng='-71.103447' type='' address='802 Bay St' address2='' city='Taunton' state='MA' postal='2780' />
+	<marker name="Mill Pond Station" lat='41.762218' lng='-70.733467' type='' address='2569 Cranberry Hig' address2='' city='Wareham' state='MA' postal='2571' />
+	<marker name="Boston Discount Liquors" lat='42.212528' lng='-71.798592' type='' address='566 Southwest Cuto' address2='' city='Worcester' state='MA' postal='1607' />
+	<marker name="Cabot Liquors" lat='42.147942' lng='-72.608772' type='' address='220 Exchange St' address2='' city='Chicopee' state='MA' postal='1013' />
+	<marker name="Kelley Square Liquors" lat='42.254913' lng='-71.797112' type='' address='7 1/2 Kelley Squar' address2='' city='Worcester' state='MA' postal='1610' />
+	<marker name="Brockton Liquors" lat='42.077694' lng='-71.019760' type='' address='383 N Main St' address2='' city='Brockton' state='MA' postal='2301' />
+	<marker name="Wymans" lat='42.568260' lng='-71.815002' type='' address='519 Electric Ave' address2='' city='Fitchburg' state='MA' postal='1420' />
+	<marker name="Wine Basket" lat='42.089218' lng='-71.064354' type='' address='13 Pearl St' address2='' city='Brockton' state='MA' postal='2301' />
+	<marker name="Discount Liquors" lat='42.462677' lng='-70.962257' type='' address='3 Market Square' address2='' city='Lynn' state='MA' postal='1905' />
+	<marker name="Country Liquors" lat='41.792484' lng='-71.325294' type='' address='1201 Fall River Av' address2='' city='Seekonk' state='MA' postal='2370' />
+	<marker name="Lenny's Liquors" lat='42.228897' lng='-71.786491' type='' address='148 Worcester Prov' address2='' city='Milbury' state='MA' postal='1527' />
+	<marker name="Shovel Shop" lat='42.067619' lng='-71.087288' type='' address='282 Washington St' address2='' city='Easton' state='MA' postal='2356' />
+	<marker name="State Liquors" lat='42.258560' lng='-71.822304' type='' address='370 Park Ave' address2='' city='Worcester' state='MA' postal='1603' />
+	<marker name="Woodys" lat='42.407734' lng='-71.013893' type='' address='266 Broadway' address2='' city='Revere' state='MA' postal='2151' />
+	<marker name="Downtown Wine &amp; Spirits" lat='42.395527' lng='-71.121895' type='' address='255 Elm St' address2='' city='Somerville' state='MA' postal='2143' />
+	<marker name="Capital Liquors" lat='42.349110' lng='-71.506439' type='' address='Boston Post Rd' address2='' city='MArlboro' state='MA' postal='1752' />
+	<marker name="Paxton Liquors" lat='42.310925' lng='-71.927666' type='' address='683 Pleasant Stree' address2='' city='Paxton' state='MA' postal='1612' />
+	<marker name="Joppa Market" lat='42.015717' lng='-70.961060' type='' address='626 Bedford Street' address2='' city='E. Bridgewater' state='MA' postal='2324' />
+	<marker name="Spirits &amp; More" lat='42.018745' lng='-71.007202' type='' address='4 South Main Stree' address2='' city='W. Bridgewater' state='MA' postal='2379' />
+	<marker name="Alexander Liquors" lat='42.423038' lng='-71.091301' type='' address='457 Salem St' address2='' city='Medford' state='MA' postal='2155' />
+	<marker name="Colonial Spirits" lat='42.078754' lng='-72.039650' type='' address='543 Main Street' address2='' city='Southbridge' state='MA' postal='1550' />
+	<marker name="Russo's Wines &amp; Spirits" lat='41.978165' lng='-70.975456' type='' address='455 Bedford St' address2='' city='Bridgewater' state='MA' postal='2324' />
+	<marker name="T &amp; T Liquors" lat='42.281399' lng='-71.028961' type='' address='66 Newbury Ave' address2='' city='Quincy' state='MA' postal='2171' />
+	<marker name="Norfolk Fine Wine &amp; Spirits" lat='42.091541' lng='-71.298958' type='' address='206 Dedham St' address2='' city='Norfolk' state='MA' postal='2056' />
+	<marker name="Gibbons Wine &amp; Spirits" lat='42.240658' lng='-71.843262' type='' address='68 Stafford Street' address2='' city='Worcester' state='MA' postal='1603' />
+	<marker name="Harmony Liquors" lat='42.037186' lng='-70.957809' type='' address='150 North Bedford' address2='' city='E. Bridgewater' state='MA' postal='2333' />
+	<marker name="Lizzie's Liquors" lat='41.638599' lng='-71.037735' type='' address='839 State Road' address2='' city='Dartmouth' state='MA' postal='2747' />
+	<marker name="The Liquor Cabinet" lat='42.491047' lng='-71.174019' type='' address='34A Winn Street' address2='' city='Burlington' state='MA' postal='1803' />
+	<marker name="Douglas Discount Liquors" lat='41.968971' lng='-71.302086' type='' address='5 Robert Toner Blv' address2='' city='N. Attleboro' state='MA' postal='2763' />
+	<marker name="Bridgeway Liquors" lat='42.109123' lng='-71.022568' type='' address='142 Howard Street' address2='' city='Brockton' state='MA' postal='2302' />
+	<marker name="Border Bets &amp; Butt" lat='41.909691' lng='-71.363503' type='' address='661 Washington St' address2='' city='Attleboro' state='MA' postal='2703' />
+	<marker name="Auburn Package" lat='42.213940' lng='-71.843552' type='' address='196 Auburn Street' address2='' city='Auburn' state='MA' postal='1501' />
+	<marker name="Brookside Liquors" lat='42.193691' lng='-71.906891' type='' address='875 Pleasant Stree' address2='' city='Leicester' state='MA' postal='1524' />
+	<marker name="Chauncy Liquors" lat='42.315029' lng='-71.098961' type='' address='3100 Washington St' address2='' city='Roxbury' state='MA' postal='2119' />
+	<marker name="Jp Wine &amp; Spitrits" lat='42.126564' lng='-71.517662' type='' address='134 South Main Str' address2='' city='Milford' state='MA' postal='1757' />
+	<marker name="West Medway Liquor" lat='42.145817' lng='-71.428856' type='' address='175 Main Street' address2='' city='Medway' state='MA' postal='2053' />
+	<marker name="Keystone Liquors" lat='42.151321' lng='-71.411652' type='' address='88 Main St' address2='' city='Medway' state='MA' postal='2053' />
+	<marker name="City Spirits" lat='41.944534' lng='-71.281929' type='' address='74 Park St' address2='' city='Attleboro' state='MA' postal='2703' />
+	<marker name="Oxford Package Store" lat='42.117828' lng='-71.865074' type='' address='331 Main St' address2='' city='Oxford' state='MA' postal='1540' />
+	<marker name="Chestnut Liquors" lat='42.466763' lng='-70.949493' type='' address='348 Chestnut Liquo' address2='' city='Lynn' state='MA' postal='1902' />
+	<marker name="Rosa's Liquors" lat='42.251820' lng='-71.789970' type='' address='1568 Dorcester Ave' address2='' city='Dorcester' state='MA' postal='2122' />
+	<marker name="Tremont Liquors" lat='41.904625' lng='-71.104019' type='' address='43 Tremont Street' address2='' city='Taunton' state='MA' postal='2780' />
+	<marker name="Big Discount Liquors" lat='42.070553' lng='-72.012497' type='' address='425 East Main St' address2='' city='Southbridge' state='MA' postal='1550' />
+	<marker name="Colony Liquors" lat='42.096092' lng='-72.020462' type='' address='683 Southbridge St' address2='' city='Auborn' state='MA' postal='1501' />
+	<marker name="Wampum Corner Wine" lat='42.049992' lng='-71.346489' type='' address='660 South St' address2='' city='Wrentham' state='MA' postal='2093' />
+	<marker name="Hough's Neck Package" lat='42.268856' lng='-70.953072' type='' address='1183 Sea Street' address2='' city='Quincy' state='MA' postal='2169' />
+	<marker name="Presidential Discount Liquors" lat='42.243294' lng='-70.994980' type='' address='25 Scammel Street' address2='' city='Quincy' state='MA' postal='2169' />
+	<marker name="Leitrim Pub" lat='42.264290' lng='-71.819313' type='' address='265 Park Avenue' address2='' city='Worcester' state='MA' postal='1609' />
+	<marker name="Trio Liquors" lat='41.681606' lng='-70.920464' type='' address='928 Belleville Ave' address2='' city='New Bedford' state='MA' postal='2745' />
+	<marker name="Stoney Hill Wine &amp; Spirts" lat='42.295834' lng='-71.713333' type='' address='424A Hartford Turn' address2='' city='Shrewsbury' state='MA' postal='1545' />
+	<marker name="Yd Liquors" lat='42.240788' lng='-71.753990' type='' address='1140 Grafton Stree' address2='' city='Worcester' state='MA' postal='1604' />
+	<marker name="South Liquor Mart" lat='42.024734' lng='-71.346420' type='' address='431 South St' address2='' city='Plainville' state='MA' postal='2762' />
+	<marker name="Landry Liquors" lat='41.889137' lng='-71.333801' type='' address='134 Central Street' address2='' city='Seekonk' state='MA' postal='2771' />
+	<marker name="Becker's Package Store" lat='41.664654' lng='-70.178650' type='' address='55 Route 28' address2='' city='Yarmouth' state='MA' postal='2673' />
+	<marker name="Digger's Liquors" lat='42.072418' lng='-71.713318' type='' address='295 Main St' address2='' city='Douglas' state='MA' postal='1516' />
+	<marker name="Hometown Wine &amp; Liquors" lat='42.110680' lng='-71.866173' type='' address='2 Fairlawn Ave' address2='' city='Oxford' state='MA' postal='1540' />
+	<marker name="Mina's Wine And Spirits" lat='42.121777' lng='-72.748466' type='' address='53 Elm St' address2='' city='Westfield' state='MA' postal='1085' />
+	<marker name="Forest Hill Liquor" lat='42.300644' lng='-71.112617' type='' address='3694 Washington St' address2='' city='Jamaica Plain' state='MA' postal='2130' />
+	<marker name="Stony Brook Wine &amp; Liquors" lat='42.316959' lng='-71.105499' type='' address='80 Boylston Street' address2='' city='Jamaica Plain' state='MA' postal='2130' />
+	<marker name="Turnpike Food And Liquor" lat='42.294964' lng='-71.504044' type='' address='65 Turnpike Road' address2='' city='Southboro' state='MA' postal='1772' />
+	<marker name="Deftos Liquors" lat='42.065147' lng='-71.015984' type='' address='1032 Main St' address2='' city='Brockton' state='MA' postal='2301' />
+	<marker name="Molly O'shea's Wines &amp; Spirits" lat='41.979454' lng='-71.329773' type='' address='463 East Washingto' address2='' city='N. Attleboro' state='MA' postal='2760' />
+	<marker name="Hurricane Betty's" lat='42.252972' lng='-71.807426' type='' address='350 Southbridge St' address2='' city='Worcester' state='MA' postal='1608' />
+	<marker name="Seabury Wine &amp; Spirits" lat='41.649303' lng='-70.482185' type='' address='19 Commercial Stre' address2='' city='Mashpee' state='MA' postal='2649' />
+	<marker name="Edgemere Discount" lat='42.243286' lng='-71.741600' type='' address='12 Hartford Turnpi' address2='' city='Shrewsbury' state='MA' postal='1545' />
+	<marker name="Highland Liquors" lat='42.270950' lng='-71.807480' type='' address='121 Highland St' address2='' city='Worcester' state='MA' postal='1609' />
+	<marker name="Hemisphere Restaurant" lat='41.772026' lng='-70.491821' type='' address='98 Town Neck Road' address2='' city='Sandwich' state='MA' postal='2563' />
+	<marker name="Mass Discount Liquors" lat='42.238811' lng='-71.813713' type='' address='844 Southbridge St' address2='' city='Auburn' state='MA' postal='1501' />
+	<marker name="Russell Liquor" lat='42.188187' lng='-72.857590' type='' address='5 Huntington Road' address2='' city='Russell' state='MA' postal='1071' />
+	<marker name="Grafton Liquors" lat='42.259010' lng='-71.793694' type='' address='77 Worcester Stree' address2='' city='Grafton' state='MA' postal='1536' />
+	<marker name="Quick 6 Discount Liquors" lat='42.242619' lng='-70.952896' type='' address='321 Bridge Street' address2='' city='Weymouth' state='MA' postal='2191' />
+	<marker name="Camillo Market" lat='42.322784' lng='-71.101547' type='' address='280 Centre Street' address2='' city='Jamaica Plain' state='MA' postal='2130' />
+	<marker name="Egleston Liquors" lat='42.315376' lng='-71.098625' type='' address='3086 Washington St' address2='' city='Roxbury' state='MA' postal='2119' />
+	<marker name="Ted's Package Store" lat='42.155254' lng='-71.906647' type='' address='27 Worcester Road' address2='' city='Charlton' state='MA' postal='1537' />
+	<marker name="Westside Convenience" lat='42.345928' lng='-71.552284' type='' address='505 Boston Post Ro' address2='' city='Marlboro' state='MA' postal='1752' />
+	<marker name="Market Liquors" lat='42.156693' lng='-72.489426' type='' address='459 Main Street' address2='' city='Indian Orchard' state='MA' postal='1151' />
+	<marker name="Chestnut Street Package" lat='42.104465' lng='-72.588005' type='' address='95 Chestnut St' address2='' city='Springfield' state='MA' postal='1103' />
+	<marker name="Gateway Liquors" lat='42.086136' lng='-71.473640' type='' address='5 Mechanic St' address2='' city='Bellingham' state='MA' postal='2019' />
+	<marker name="The Lucky Dog Music Theatre" lat='42.257805' lng='-71.798172' type='' address='89 Green St' address2='' city='Worcester' state='MA' postal='1608' />
+	<marker name="Vernon Liquors" lat='42.429329' lng='-71.050629' type='' address='673 Eastern Ave' address2='' city='Malden' state='MA' postal='2148' />
+	<marker name="Kelly's Liquor Mart" lat='42.270596' lng='-71.120583' type='' address='871 Hyde Park Ave' address2='' city='Hyde Park' state='MA' postal='2136' />
+	<marker name="Broadway Liquors" lat='42.713310' lng='-71.175156' type='' address='434 Broadway' address2='' city='Lawrence' state='MA' postal='1841' />
+	<marker name="Super Liquor Store" lat='42.698849' lng='-71.164223' type='' address='35 South Broadway' address2='' city='Lawrence' state='MA' postal='1843' />
+	<marker name="Frank's Package Store" lat='42.092697' lng='-72.568016' type='' address='11 Dickinson St' address2='' city='Springfield' state='MA' postal='1108' />
+	<marker name="Dillon's Liquors" lat='42.096237' lng='-72.582100' type='' address='758 Main Street' address2='' city='Springfield' state='MA' postal='1105' />
+	<marker name="The Spirit Shop" lat='42.451382' lng='-72.562523' type='' address='295 Amherst Road' address2='' city='Sunderland' state='MA' postal='1375' />
+	<marker name="Camilo Liquors Iii" lat='42.266605' lng='-71.095352' type='' address='7 Edgewater Dr' address2='' city='Mattapan' state='MA' postal='2126' />
+	<marker name="Gordon Liquors" lat='42.365940' lng='-71.238144' type='' address='599 Moody St' address2='' city='Waltham' state='MA' postal='2454' />
+	<marker name="Westford Pkg Store" lat='42.567993' lng='-71.422905' type='' address='175 Littleton Road' address2='' city='Westford' state='MA' postal='1886' />
+	<marker name="Carlines" lat='42.559666' lng='-71.588806' type='' address='7 Depot Sq' address2='' city='Ayer' state='MA' postal='1432' />
+	<marker name="Grand Market" lat='42.262791' lng='-71.747246' type='' address='S. Quinsigamond Av' address2='' city='Shrewsbury' state='MA' postal='1545' />
+	<marker name="Budget Liquors" lat='42.271633' lng='-71.073334' type='' address='69 River Street' address2='' city='Mattapan' state='MA' postal='2126' />
+	<marker name="Southgate Liquors" lat='42.063087' lng='-72.631927' type='' address='842 Suffield Stree' address2='' city='Agawam' state='MA' postal='1001' />
+	<marker name="Hewitt's Liquors" lat='42.715538' lng='-71.164711' type='' address='109 Lawrence Stree' address2='' city='Lawrence' state='MA' postal='1840' />
+	<marker name="Primos Liquors" lat='42.704639' lng='-71.190147' type='' address='1250 Harverhill St' address2='' city='Lawrence' state='MA' postal='1841' />
+	<marker name="The Liquor Shop" lat='42.665226' lng='-71.303368' type='' address='1215 Bridge St' address2='' city='Lowell' state='MA' postal='1850' />
+	<marker name="The Liquor Shop" lat='42.697308' lng='-71.440636' type='' address='440 Middlesex Road' address2='' city='Tyngsboro' state='MA' postal='1879' />
+	<marker name="Stadium Liquors" lat='42.628860' lng='-71.274315' type='' address='10 Main Street' address2='' city='Tewksbury' state='MA' postal='1876' />
+	<marker name="Uncle Bob's" lat='42.171619' lng='-72.444489' type='' address='967 East St' address2='' city='Ludlow' state='MA' postal='1056' />
+	<marker name="Chili Head Bbq Co" lat='42.016300' lng='-71.030037' type='' address='320 W. Center St' address2='' city='W Bridgewater' state='MA' postal='2375' />
+	<marker name="Fuentes Market &amp; Liquor" lat='42.331799' lng='-71.097099' type='' address='676 Parker St' address2='' city='Roxbury' state='MA' postal='2120' />
+	<marker name="Arge's Liquors" lat='42.518482' lng='-70.906670' type='' address='18 Boston St' address2='' city='Salem' state='MA' postal='1970' />
+	<marker name="Wilmington Wine &amp; Liquor" lat='42.554985' lng='-71.180206' type='' address='240 Main St' address2='' city='WIlminton' state='MA' postal='1887' />
+	<marker name="Sperry's Liquors" lat='42.376328' lng='-71.564201' type='' address='10 Technology Driv' address2='' city='Hudson' state='MA' postal='1749' />
+	<marker name="Sperry's Liquor" lat='42.347706' lng='-71.542679' type='' address='17 East Main St' address2='' city='Marlboro' state='MA' postal='1752' />
+	<marker name="Sperry's Liquors" lat='42.344254' lng='-71.563194' type='' address='531 Lincoln St' address2='' city='Marlboro' state='MA' postal='1752' />
+	<marker name="American Legion Ma" lat='42.287228' lng='-71.108650' type='' address='569 American Legio' address2='' city='Roslindale' state='MA' postal='2131' />
+	<marker name="Arlington Liquors" lat='42.718761' lng='-71.179390' type='' address='47 Broadway' address2='' city='Methuen' state='MA' postal='1844' />
+	<marker name="Centro Liquors" lat='42.468803' lng='-70.942062' type='' address='395 Essex Street' address2='' city='Lynn' state='MA' postal='1902' />
+	<marker name="Mount Vernon Liquors" lat='42.685886' lng='-71.156479' type='' address='421 South Broadway' address2='' city='Lawrence' state='MA' postal='1843' />
+	<marker name="Cottage Street Liquors" lat='42.144592' lng='-72.543175' type='' address='276 Cottage Street' address2='' city='Springfield' state='MA' postal='1104' />
+	<marker name="Mcnamara's Liquors" lat='42.525291' lng='-70.927536' type='' address='12 Foster Street' address2='' city='Peabody' state='MA' postal='1905' />
+	<marker name="Tlc Package Store" lat='42.642876' lng='-71.325806' type='' address='277 School Street' address2='' city='Lowell' state='MA' postal='1852' />
+	<marker name="Pat's Liquors" lat='42.197678' lng='-72.604042' type='' address='7 Cabot Street' address2='' city='Holyoke' state='MA' postal='1040' />
+	<marker name="4 Corners Package" lat='42.065948' lng='-72.163841' type='' address='3 Brimfield Road' address2='' city='Holland' state='MA' postal='1521' />
+	<marker name="114 Liquors" lat='42.691631' lng='-71.152077' type='' address='80 Winthrop Ave' address2='' city='Lawrence' state='MA' postal='1840' />
+	<marker name="1666 Liquors" lat='42.052322' lng='-71.011475' type='' address='1666 Main Street' address2='' city='Brockton' state='MA' postal='2301' />
+	<marker name="Cozi Mini Mart" lat='41.952393' lng='-71.296036' type='' address='1 North Ave' address2='' city='Attleboro' state='MA' postal='2703' />
+	<marker name="Fire &amp; Ice" lat='42.374191' lng='-71.120636' type='' address='50 Church Street' address2='' city='Cambridge' state='MA' postal='2139' />
+	<marker name="Jose's Mexican Restaurant" lat='42.390182' lng='-71.132851' type='' address='131 Sherman St' address2='' city='Cambridge' state='MA' postal='2140' />
+	<marker name="Antioch Fine Wine And Liquors" lat='42.470390' lng='-88.093872' type='' address='1180 S. Main St.  Antioch' address2='' city='IL' state='' postal='60002' />
+	<marker name="Berwyn Liquors" lat='41.850342' lng='-87.782661' type='' address='6335 Cermark Rd. Berwyn' address2='' city='IL' state='' postal='60402' />
+	<marker name="Big Daddy's Liquor" lat='42.370331' lng='-87.870850' type='' address='2811 Grand Avenue Waukegan' address2='' city='IL' state='' postal='60085' />
+	<marker name="Di Carlo Liquor " lat='42.240025' lng='-87.995255' type='' address='425 Townline Road Mundelein' address2='' city='IL' state='' postal='60060' />
+	<marker name="El Torito Liquors" lat='41.854565' lng='-87.744377' type='' address='1906 S. Cicero Ave. Cicero' address2='' city='IL' state='' postal='60804' />
+	<marker name="Express Food And Liquors" lat='42.371868' lng='-88.090134' type='' address='1306 N. Cedar Lake Rd. Round Lake Beach' address2='' city='IL' state='' postal='60073' />
+	<marker name="Gages Lake Liquors" lat='42.352985' lng='-87.992928' type='' address='18495 W. Old Gages Lake Rd. Grayslake ' address2='' city='IL' state='' postal='60030' />
+	<marker name="Grand Avenue Liquors" lat='42.370041' lng='-87.847878' type='' address='1328 Grand Avenue Waukegan' address2='' city='IL' state='' postal='60085' />
+	<marker name="Ram Liquors" lat='41.850456' lng='-87.786888' type='' address='6515 Cermark Rd. Berwyn' address2='' city='IL' state='' postal='60402' />
+	<marker name="Route 66 Liquor" lat='41.826588' lng='-87.794769' type='' address='6847 Ogden Ave. Berwyn' address2='' city='IL' state='' postal='60402' />
+	<marker name="Waukegan Liquors" lat='42.349957' lng='-87.869789' type='' address='2728 Belvidere Rd Waukegan' address2='' city='IL' state='' postal='60085' />
+	<marker name="Antioch Fine Wine And Liquors" lat='42.470390' lng='-88.093872' type='' address='1180 S. Main St.  Antioch' address2='' city='IL' state='' postal='60002' />
+	<marker name="Berwyn Liquors" lat='41.850342' lng='-87.782661' type='' address='6335 Cermark Rd. Berwyn' address2='' city='IL' state='' postal='60402' />
+	<marker name="Big Daddy's Liquor" lat='42.370331' lng='-87.870850' type='' address='2811 Grand Avenue Waukegan' address2='' city='IL' state='' postal='60085' />
+	<marker name="Di Carlo Liquor " lat='42.240025' lng='-87.995255' type='' address='425 Townline Road Mundelein' address2='' city='IL' state='' postal='60060' />
+	<marker name="El Torito Liquors" lat='41.854565' lng='-87.744377' type='' address='1906 S. Cicero Ave. Cicero' address2='' city='IL' state='' postal='60804' />
+	<marker name="Express Food And Liquors" lat='42.371868' lng='-88.090134' type='' address='1306 N. Cedar Lake Rd. Round Lake Beach' address2='' city='IL' state='' postal='60073' />
+	<marker name="Gages Lake Liquors" lat='42.352985' lng='-87.992928' type='' address='18495 W. Old Gages Lake Rd. Grayslake ' address2='' city='IL' state='' postal='60030' />
+	<marker name="Grand Avenue Liquors" lat='42.370041' lng='-87.847878' type='' address='1328 Grand Avenue Waukegan' address2='' city='IL' state='' postal='60085' />
+	<marker name="Ram Liquors" lat='41.850456' lng='-87.786888' type='' address='6515 Cermark Rd. Berwyn' address2='' city='IL' state='' postal='60402' />
+	<marker name="Route 66 Liquor" lat='41.826588' lng='-87.794769' type='' address='6847 Ogden Ave. Berwyn' address2='' city='IL' state='' postal='60402' />
+	<marker name="Waukegan Liquors" lat='42.349957' lng='-87.869789' type='' address='2728 Belvidere Rd Waukegan' address2='' city='IL' state='' postal='60085' />
+</markers>

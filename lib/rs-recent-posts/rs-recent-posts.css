@@ -1,0 +1,9 @@
+/**
+ * @desc	RS Recent Posts
+ * @author	Ryan Sutana
+ */
+
+div.recentPosts{}
+   ul.posts{}
+   ul.posts li.postItem{}
+   ul.posts li.postItem h4.recentPostTitle{}

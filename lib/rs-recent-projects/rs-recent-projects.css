@@ -1,0 +1,9 @@
+/**
+ * @desc	RS Recent Projects
+ * @author	Ryan Sutana
+ */
+
+div.recentProjects{}
+   ul.projects{}
+   ul.projects li.projectItem{}
+   ul.projects li.projectItem h4.recentProjectTitle{}
