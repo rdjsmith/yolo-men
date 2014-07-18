@@ -108,7 +108,7 @@ h2.slogan{ display: none; }
 
 /* Hide Mobile Navigation */
 .menuWrapper{ margin-bottom: 2em; border-top: 1px solid #555; border-bottom: 1px solid #555; }
-	div.mobile-menu{ padding-bottom: 10px; display: none; }
+	div.mobile-menu{ padding-bottom: 10px; display: inline; }
 	div.mobile-menu select.menu-pages{ margin-top: 16px; padding: 6px; }
 
 .translationWrapper{ margin-bottom: 20px; display: none; }
